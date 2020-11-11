@@ -1,4 +1,4 @@
-# admin-vue
+# vuex
 
 > A Vue.js project
 

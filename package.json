@@ -1,8 +1,8 @@
 {
-  "name": "admin-vue",
+  "name": "vuex",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "LwMdLqq <1101699315@qq.com>",
+  "author": "mengdi4 <mengdi4@lenovo.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
@@ -11,8 +11,10 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "element-ui": "^2.13.2",
     "vue": "^2.5.2",
-    "vue-router": "^3.0.1"
+    "vue-router": "^3.0.1",
+    "vuex": "^3.5.1"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
